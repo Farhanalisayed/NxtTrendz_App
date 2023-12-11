@@ -24,7 +24,6 @@ const Header = props => {
               src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-log-out-img.png"
               alt="nav logout"
               className="nav-bar-img"
-              onClick={onLogout}
             />
           </button>
         </div>
